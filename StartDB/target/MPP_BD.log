@@ -1,0 +1,117 @@
+10 Mar 2025 23:09:06,357 INFO  org.mpp.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:git	eme-lab-LaryPop26StartDBcars.db} 
+10 Mar 2025 23:09:06,369 TRACE org.mpp.CarsDBRepository 86 add - Enter saving task Id=0 Tesla Model S 2019
+10 Mar 2025 23:09:06,370 TRACE org.mpp.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 23:09:06,370 TRACE org.mpp.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 23:09:06,370 INFO  org.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:git	eme-lab-LaryPop26StartDBcars.db
+10 Mar 2025 23:09:06,371 INFO  org.mpp.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2025 23:09:06,371 INFO  org.mpp.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2025 23:09:06,404 ERROR org.mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: opening db: 'C:git	eme-lab-LaryPop26StartDBcars.db': The filename, directory name, or volume label syntax is incorrect
+10 Mar 2025 23:09:06,405 TRACE org.mpp.JdbcUtils 57 getConnection - Exit
+10 Mar 2025 23:09:39,855 INFO  org.mpp.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:git	eme-lab-LaryPop26StartDBcars.db} 
+10 Mar 2025 23:09:39,867 TRACE org.mpp.CarsDBRepository 86 add - Enter saving task Id=0 Tesla Model S 2019
+10 Mar 2025 23:09:39,867 TRACE org.mpp.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 23:09:39,868 TRACE org.mpp.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 23:09:39,868 INFO  org.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:git	eme-lab-LaryPop26StartDBcars.db
+10 Mar 2025 23:09:39,868 INFO  org.mpp.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2025 23:09:39,869 INFO  org.mpp.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2025 23:09:39,902 ERROR org.mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: opening db: 'C:git	eme-lab-LaryPop26StartDBcars.db': The filename, directory name, or volume label syntax is incorrect
+10 Mar 2025 23:09:39,903 TRACE org.mpp.JdbcUtils 57 getConnection - Exit
+10 Mar 2025 23:10:54,889 INFO  org.mpp.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:git	eme-lab-LaryPop26StartDBcars.db} 
+10 Mar 2025 23:10:54,901 TRACE org.mpp.CarsDBRepository 86 add - Enter saving task Id=0 Tesla Model S 2019
+10 Mar 2025 23:10:54,902 TRACE org.mpp.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 23:10:54,902 TRACE org.mpp.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 23:10:54,903 INFO  org.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:git	eme-lab-LaryPop26StartDBcars.db
+10 Mar 2025 23:10:54,903 INFO  org.mpp.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2025 23:10:54,903 INFO  org.mpp.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2025 23:10:54,943 ERROR org.mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: opening db: 'C:git	eme-lab-LaryPop26StartDBcars.db': The filename, directory name, or volume label syntax is incorrect
+10 Mar 2025 23:10:54,944 TRACE org.mpp.JdbcUtils 57 getConnection - Exit
+10 Mar 2025 23:11:11,608 INFO  org.mpp.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:git	eme-lab-LaryPop26StartDBcars.db} 
+10 Mar 2025 23:11:11,623 TRACE org.mpp.CarsDBRepository 86 add - Enter saving task Id=0 Tesla Model S 2019
+10 Mar 2025 23:11:11,624 TRACE org.mpp.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 23:11:11,625 TRACE org.mpp.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 23:11:11,625 INFO  org.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:git	eme-lab-LaryPop26StartDBcars.db
+10 Mar 2025 23:11:11,626 INFO  org.mpp.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2025 23:11:11,626 INFO  org.mpp.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2025 23:11:11,663 ERROR org.mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: opening db: 'C:git	eme-lab-LaryPop26StartDBcars.db': The filename, directory name, or volume label syntax is incorrect
+10 Mar 2025 23:11:11,664 TRACE org.mpp.JdbcUtils 57 getConnection - Exit
+10 Mar 2025 23:14:17,582 INFO  org.mpp.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:git	eme-lab-LaryPop26StartDBcars.db} 
+10 Mar 2025 23:14:17,597 TRACE org.mpp.CarsDBRepository 86 add - Enter saving task Id=0 Tesla Model S 2019
+10 Mar 2025 23:14:17,597 TRACE org.mpp.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 23:14:17,598 TRACE org.mpp.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 23:14:17,598 INFO  org.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:git	eme-lab-LaryPop26StartDBcars.db
+10 Mar 2025 23:14:17,598 INFO  org.mpp.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2025 23:14:17,599 INFO  org.mpp.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2025 23:14:17,632 ERROR org.mpp.JdbcUtils 41 getNewConnection - java.sql.SQLException: opening db: 'C:git	eme-lab-LaryPop26StartDBcars.db': The filename, directory name, or volume label syntax is incorrect
+10 Mar 2025 23:14:17,633 TRACE org.mpp.JdbcUtils 57 getConnection - Exit
+10 Mar 2025 23:17:21,563 INFO  org.mpp.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/git/teme-lab-LaryPop26/StartDB/cars.db} 
+10 Mar 2025 23:17:21,574 TRACE org.mpp.CarsDBRepository 86 add - Enter saving task Id=0 Tesla Model S 2019
+10 Mar 2025 23:17:21,575 TRACE org.mpp.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 23:17:21,575 TRACE org.mpp.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 23:17:21,576 INFO  org.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/git/teme-lab-LaryPop26/StartDB/cars.db
+10 Mar 2025 23:17:21,576 INFO  org.mpp.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2025 23:17:21,577 INFO  org.mpp.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2025 23:17:21,917 TRACE org.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@659499f1)
+10 Mar 2025 23:17:21,928 TRACE org.mpp.CarsDBRepository 93 add - Saved 1 instances
+10 Mar 2025 23:17:21,929 TRACE org.mpp.CarsDBRepository 98 add - Exit
+10 Mar 2025 23:17:21,930 TRACE org.mpp.CarsDBRepository 122 findAll - Enter
+10 Mar 2025 23:17:21,931 TRACE org.mpp.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 23:17:21,931 TRACE org.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@659499f1)
+10 Mar 2025 23:17:21,934 TRACE org.mpp.CarsDBRepository 141 findAll - Exit with([Id=1 Dacia Sandero 2019, Id=2 Skoda  Octavia 2020, Id=3 Tesla Model S 2019])
+10 Mar 2025 23:17:21,935 TRACE org.mpp.CarsDBRepository 28 findByManufacturer - Enter Finding cars by manufacturer: Tesla
+10 Mar 2025 23:17:21,936 TRACE org.mpp.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 23:17:21,936 TRACE org.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@659499f1)
+10 Mar 2025 23:17:21,937 TRACE org.mpp.CarsDBRepository 50 findByManufacturer - Exit Found 1 cars
+10 Mar 2025 23:17:44,424 INFO  org.mpp.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/git/teme-lab-LaryPop26/StartDB/cars.db} 
+10 Mar 2025 23:17:44,437 TRACE org.mpp.CarsDBRepository 86 add - Enter saving task Id=0 Tesla Model S 2019
+10 Mar 2025 23:17:44,438 TRACE org.mpp.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 23:17:44,438 TRACE org.mpp.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 23:17:44,439 INFO  org.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/git/teme-lab-LaryPop26/StartDB/cars.db
+10 Mar 2025 23:17:44,439 INFO  org.mpp.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2025 23:17:44,439 INFO  org.mpp.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2025 23:17:44,705 TRACE org.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@659499f1)
+10 Mar 2025 23:17:44,715 TRACE org.mpp.CarsDBRepository 93 add - Saved 1 instances
+10 Mar 2025 23:17:44,716 TRACE org.mpp.CarsDBRepository 98 add - Exit
+10 Mar 2025 23:17:44,716 TRACE org.mpp.CarsDBRepository 122 findAll - Enter
+10 Mar 2025 23:17:44,717 TRACE org.mpp.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 23:17:44,717 TRACE org.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@659499f1)
+10 Mar 2025 23:17:44,720 TRACE org.mpp.CarsDBRepository 141 findAll - Exit with([Id=1 Dacia Sandero 2019, Id=2 Skoda  Octavia 2020, Id=3 Tesla Model S 2019, Id=4 Tesla Model S 2019])
+10 Mar 2025 23:17:44,721 TRACE org.mpp.CarsDBRepository 28 findByManufacturer - Enter Finding cars by manufacturer: Tesla
+10 Mar 2025 23:17:44,721 TRACE org.mpp.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 23:17:44,721 TRACE org.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@659499f1)
+10 Mar 2025 23:17:44,722 TRACE org.mpp.CarsDBRepository 50 findByManufacturer - Exit Found 2 cars
+10 Mar 2025 23:17:53,198 INFO  org.mpp.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/git/teme-lab-LaryPop26/StartDB/cars.db} 
+10 Mar 2025 23:17:53,210 TRACE org.mpp.CarsDBRepository 86 add - Enter saving task Id=0 Tesla Model S 2019
+10 Mar 2025 23:17:53,211 TRACE org.mpp.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 23:17:53,211 TRACE org.mpp.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 23:17:53,212 INFO  org.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/git/teme-lab-LaryPop26/StartDB/cars.db
+10 Mar 2025 23:17:53,212 INFO  org.mpp.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2025 23:17:53,212 INFO  org.mpp.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2025 23:17:53,491 TRACE org.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@49049a04)
+10 Mar 2025 23:17:53,501 TRACE org.mpp.CarsDBRepository 93 add - Saved 1 instances
+10 Mar 2025 23:17:53,502 TRACE org.mpp.CarsDBRepository 98 add - Exit
+10 Mar 2025 23:17:53,502 TRACE org.mpp.CarsDBRepository 122 findAll - Enter
+10 Mar 2025 23:17:53,502 TRACE org.mpp.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 23:17:53,503 TRACE org.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@49049a04)
+10 Mar 2025 23:17:53,506 TRACE org.mpp.CarsDBRepository 141 findAll - Exit with([Id=1 Dacia Sandero 2019, Id=2 Skoda  Octavia 2020, Id=3 Tesla Model S 2019, Id=4 Tesla Model S 2019, Id=5 Tesla Model S 2019])
+10 Mar 2025 23:17:53,507 TRACE org.mpp.CarsDBRepository 28 findByManufacturer - Enter Finding cars by manufacturer: Tesla
+10 Mar 2025 23:17:53,508 TRACE org.mpp.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 23:17:53,508 TRACE org.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@49049a04)
+10 Mar 2025 23:17:53,508 TRACE org.mpp.CarsDBRepository 50 findByManufacturer - Exit Found 3 cars
+10 Mar 2025 23:18:05,398 INFO  org.mpp.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/git/teme-lab-LaryPop26/StartDB/cars.db} 
+10 Mar 2025 23:18:05,411 TRACE org.mpp.CarsDBRepository 86 add - Enter saving task Id=0 Tesla Model S 2019
+10 Mar 2025 23:18:05,411 TRACE org.mpp.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 23:18:05,411 TRACE org.mpp.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 23:18:05,412 INFO  org.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/git/teme-lab-LaryPop26/StartDB/cars.db
+10 Mar 2025 23:18:05,412 INFO  org.mpp.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2025 23:18:05,412 INFO  org.mpp.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2025 23:18:05,687 TRACE org.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@659499f1)
+10 Mar 2025 23:18:05,697 TRACE org.mpp.CarsDBRepository 93 add - Saved 1 instances
+10 Mar 2025 23:18:05,698 TRACE org.mpp.CarsDBRepository 98 add - Exit
+10 Mar 2025 23:18:05,699 TRACE org.mpp.CarsDBRepository 122 findAll - Enter
+10 Mar 2025 23:18:05,699 TRACE org.mpp.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 23:18:05,699 TRACE org.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@659499f1)
+10 Mar 2025 23:18:05,702 TRACE org.mpp.CarsDBRepository 141 findAll - Exit with([Id=1 Dacia Sandero 2019, Id=2 Skoda  Octavia 2020, Id=3 Tesla Model S 2019, Id=4 Tesla Model S 2019, Id=5 Tesla Model S 2019, Id=6 Tesla Model S 2019])
+10 Mar 2025 23:18:05,703 TRACE org.mpp.CarsDBRepository 28 findByManufacturer - Enter Finding cars by manufacturer: Tesla
+10 Mar 2025 23:18:05,703 TRACE org.mpp.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 23:18:05,703 TRACE org.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@659499f1)
+10 Mar 2025 23:18:05,704 TRACE org.mpp.CarsDBRepository 50 findByManufacturer - Exit Found 4 cars
